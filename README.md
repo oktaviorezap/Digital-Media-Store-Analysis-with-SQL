@@ -6,8 +6,8 @@
 <br>
 
 # Exercise Answer and SQL Script
-1. Exercise Answer :
-2. SQL Script with DBeaver :
+1. Exercise Answer : 
+2. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/SQL-Exercise-Mentoring-Week-2/blob/main/OktavioRezaPutra_ExerciseWeek2_SQL_Script.sql)
    
 # Task Description
 As a Data analyst in a digital media store. You are asked by the manager to :
