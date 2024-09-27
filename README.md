@@ -19,4 +19,4 @@ and information on customers and employees associated with a digital media store
 ![Screenshot 2024-09-27 185010](https://github.com/user-attachments/assets/80ff96ba-1e2e-47bd-8598-c7ed6272fd78)
 
 # Entity Relationship Database (ERD)
-![ERD Tables - exercise_pacmann_week_2](https://github.com/user-attachments/assets/ce00861c-b87b-4a03-93f6-f682fb6ba27c)
+![ERD Tables - exercise_pacmann_week_2](https://github.com/user-attachments/assets/dd61430b-0b6c-48ad-9bf8-38f880d1f9c7)
