@@ -1,5 +1,5 @@
 # SQL Exercise Mentoring Week 2 - Pacmann Academy
-![Music Background](https://github.com/user-attachments/assets/bdbbf670-b6c7-4070-b546-1eb0717dbb48)
+![Music Background](https://github.com/user-attachments/assets/aad8e44c-cb69-4b01-ab53-854d12fcc76b)
 <br>
 <br>
 # Task Description
