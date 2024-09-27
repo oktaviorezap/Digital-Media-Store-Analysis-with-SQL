@@ -1,13 +1,13 @@
--- Task 1: How Much Data in the Album Table
+Task 1: How Much Data in the Album Table
 select 
 	count(*)
 from
 	exercise_pacmann.album;
--- Jawaban : Jumlah Data pada Tabel Album ada 347 Data
+**Jawaban** : Jumlah Data pada Tabel Album ada 347 Data
 
 
 
--- 1. Top 10 Negara dengan Jumlah Invoice Terbanyak
+1. Top 10 Negara dengan Jumlah Invoice Terbanyak
 	select 
 		country,
 		sum(jumlah_invoice) total_invoice
