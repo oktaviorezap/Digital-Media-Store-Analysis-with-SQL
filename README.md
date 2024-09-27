@@ -7,7 +7,7 @@
 
 # Exercise Answer and SQL Script
 1. Exercise Answer : [Exercice SQL Week 2 (Mentoring 1) Answer Link](https://github.com/oktaviorezap/SQL-Exercise-Mentoring-Week-2/blob/main/Exercise%20Week%202%20-%20Oktavio%20Reza%20Putra.pdf)
-2. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/SQL-Exercise-Mentoring-Week-2/blob/main/OktavioRezaPutra_ExerciseWeek2_SQL_Script.sql)
+2. SQL Script with DBeaver : [SQL Script Link]()
    
 # Task Description
 As a Data analyst in a digital media store. You are asked by the manager to :
