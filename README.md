@@ -5,6 +5,10 @@
 <br>
 <br>
 
+# Exercise Answer and SQL Script
+1. Exercise Answer :
+2. SQL Script with DBeaver :
+   
 # Task Description
 As a Data analyst in a digital media store. You are asked by the manager to :
 1. Give some insights of current transaction histories.
