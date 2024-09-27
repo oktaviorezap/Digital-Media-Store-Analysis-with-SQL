@@ -1,7 +1,10 @@
 # SQL Exercise Mentoring Week 2 - Pacmann Academy
-![Music Background](https://github.com/user-attachments/assets/aad8e44c-cb69-4b01-ab53-854d12fcc76b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aad8e44c-cb69-4b01-ab53-854d12fcc76b">
+</div>
 <br>
 <br>
+
 # Task Description
 As a Data analyst in a digital media store. You are asked by the manager to :
 1. Give some insights of current transaction histories.
