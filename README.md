@@ -12,7 +12,7 @@
 # Task Description
 As a Data analyst in a digital media store. You are asked by the manager to :
 1. Give some insights of current transaction histories.
-2. Give information for the Product team or marketing team related to music genres, artist, track, ect
+2. Give information for the Product team or marketing team related to music genres, artist, track, etc. 
 
 # The Dataset
 <br>This database provides an insight into the digital music shop, including artist details, album catalogs, album and song sales information, 
