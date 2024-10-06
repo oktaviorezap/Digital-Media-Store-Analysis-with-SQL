@@ -1,4 +1,4 @@
-# SQL Exercise Mentoring Week 2 - Pacmann Academy
+# SQL Exercise Mentoring Week 2 - Pacmann Academy : Digital Media Store Analysis with SQL
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aad8e44c-cb69-4b01-ab53-854d12fcc76b">
 </div>
